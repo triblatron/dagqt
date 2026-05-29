@@ -1,0 +1,3 @@
+[submodule "ThirdParty/dag"]
+	path = ThirdParty/dag
+	url = https://github.com/triblatron/dag
